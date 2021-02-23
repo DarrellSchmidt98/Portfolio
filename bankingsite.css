@@ -1,0 +1,32 @@
+#home{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 7px;
+  justify-content: center;
+  width: 95%;
+  margin: 10px auto;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+body {
+  background: green;
+  color: white;
+  border: solid 4px grey;
+}
+  .forward {
+  text-align: left;
+  color: white;
+  border: solid 1px cyan;
+
+}
+.avr {
+  color: white;
+  border: solid 1px cyan;
+}
+.navbar {
+  text-align: right;
+  background-color: grey;
+  overflow: hidden;
+}

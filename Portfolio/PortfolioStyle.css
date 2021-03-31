@@ -1,0 +1,19 @@
+html{
+    background-color: seagreen;
+    margin: 25px 150px 25px 150px;
+}
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.aboutMe {
+   
+    text-align: center;
+    font-family: sans-serif;
+}
+.interests {
+    
+    text-align: center;
+    font-family: sans-serif;
+}
